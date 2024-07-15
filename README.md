@@ -1,6 +1,7 @@
-# vue-crash-2024
+# Vue Jobs Project
 
-This template should help get you started developing with Vue 3 in Vite.
+This Vue project is based on Traversy Media's [YouTube tutorial]([https://pip.pypa.io/en/stable/](https://www.youtube.com/watch?v=VeNfHj6MhgA)). The purpose of the project is to learn how to use Vue.
+
 
 ## Recommended IDE Setup
 
