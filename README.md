@@ -1,6 +1,6 @@
 # Vue Jobs Project
 
-This Vue project is based on Traversy Media's [YouTube tutorial]([https://pip.pypa.io/en/stable/](https://www.youtube.com/watch?v=VeNfHj6MhgA)). The purpose of the project is to learn how to use Vue.
+This Vue project is based on Traversy Media's Youtube-[tutorial](https://www.youtube.com/watch?v=VeNfHj6MhgA) The purpose of the project is to learn how to use Vue.
 
 
 ## Recommended IDE Setup
